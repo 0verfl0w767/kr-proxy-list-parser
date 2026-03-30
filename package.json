@@ -1,0 +1,19 @@
+{
+  "name": "kr-proxy-list-parser",
+  "version": "1.0.0",
+  "description": "Parse top 5 KR HTTP proxies from proxydb table tbody and export JSON",
+  "main": "index.js",
+  "scripts": {
+    "parse": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "proxy",
+    "parser",
+    "cheerio"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
