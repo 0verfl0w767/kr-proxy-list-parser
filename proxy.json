@@ -8,8 +8,8 @@
     "country": "KR",
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
-    "responseTime": "1.2s",
-    "lastChecked": "1d ago"
+    "responseTime": "1.3s",
+    "lastChecked": "12h ago"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
     "anonymity": "Transparent *",
     "uptime": "90.20%",
     "responseTime": "1.8s",
-    "lastChecked": "21h ago"
+    "lastChecked": "2d ago"
   },
   {
     "rank": 3,
@@ -33,7 +33,7 @@
     "anonymity": "High Anonymous",
     "uptime": "88.89%",
     "responseTime": "5.0s",
-    "lastChecked": "9h ago"
+    "lastChecked": "2d ago"
   },
   {
     "rank": 4,
@@ -45,7 +45,7 @@
     "anonymity": "Transparent *",
     "uptime": "87.50%",
     "responseTime": "2.0s",
-    "lastChecked": "10h ago"
+    "lastChecked": "2d ago"
   },
   {
     "rank": 5,
@@ -57,6 +57,6 @@
     "anonymity": "Anonymous *",
     "uptime": "72.09%",
     "responseTime": "4.2s",
-    "lastChecked": "10h ago"
+    "lastChecked": "2d ago"
   }
 ]
