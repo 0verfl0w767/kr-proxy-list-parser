@@ -9,31 +9,31 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "1.3s",
-    "lastChecked": "11h ago"
+    "lastChecked": "1d ago"
   },
   {
     "rank": 2,
-    "ip": "8.213.151.128",
-    "port": "123128",
-    "portRaw": "123128",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "Transparent*",
-    "uptime": "90.38%",
-    "responseTime": "1.8s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 3,
     "ip": "1.231.81.166",
     "port": "123128",
     "portRaw": "123128",
     "protocol": "HTTP",
     "country": "KR",
     "anonymity": "Transparent*",
-    "uptime": "90.00%",
+    "uptime": "90.91%",
+    "responseTime": "1.7s",
+    "lastChecked": "8h ago"
+  },
+  {
+    "rank": 3,
+    "ip": "8.213.151.128",
+    "port": "123128",
+    "portRaw": "123128",
+    "protocol": "HTTP",
+    "country": "KR",
+    "anonymity": "Transparent*",
+    "uptime": "90.48%",
     "responseTime": "1.8s",
-    "lastChecked": "2d ago"
+    "lastChecked": "18h ago"
   },
   {
     "rank": 4,
@@ -43,20 +43,20 @@
     "protocol": "HTTP",
     "country": "KR",
     "anonymity": "Anonymous*",
-    "uptime": "73.33%",
-    "responseTime": "4.0s",
-    "lastChecked": "2d ago"
+    "uptime": "73.91%",
+    "responseTime": "3.9s",
+    "lastChecked": "8h ago"
   },
   {
     "rank": 5,
-    "ip": "121.126.185.63",
-    "port": "1225152",
-    "portRaw": "1225152",
+    "ip": "183.110.216.128",
+    "port": "128091",
+    "portRaw": "128091",
     "protocol": "HTTP",
     "country": "KR",
-    "anonymity": "High Anonymous",
+    "anonymity": "Anonymous*",
     "uptime": "72.73%",
-    "responseTime": "5.0s",
-    "lastChecked": "2d ago"
+    "responseTime": "2.7s",
+    "lastChecked": "5h ago"
   }
 ]
