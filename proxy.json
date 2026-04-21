@@ -9,7 +9,7 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "5.0s",
-    "lastChecked": "12h ago"
+    "lastChecked": "1d ago"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
     "anonymity": "Transparent*",
     "uptime": "100.00%",
     "responseTime": "1.0s",
-    "lastChecked": "1d ago"
+    "lastChecked": "2d ago"
   },
   {
     "rank": 3,
@@ -31,9 +31,9 @@
     "protocol": "HTTP",
     "country": "KR",
     "anonymity": "Transparent*",
-    "uptime": "92.86%",
+    "uptime": "93.33%",
     "responseTime": "1.9s",
-    "lastChecked": "2d ago"
+    "lastChecked": "5h ago"
   },
   {
     "rank": 4,
@@ -43,9 +43,9 @@
     "protocol": "HTTP",
     "country": "KR",
     "anonymity": "Transparent*",
-    "uptime": "90.74%",
+    "uptime": "90.83%",
     "responseTime": "1.8s",
-    "lastChecked": "2d ago"
+    "lastChecked": "15h ago"
   },
   {
     "rank": 5,
@@ -55,8 +55,8 @@
     "protocol": "HTTP",
     "country": "KR",
     "anonymity": "Anonymous*",
-    "uptime": "75.51%",
+    "uptime": "76.00%",
     "responseTime": "3.9s",
-    "lastChecked": "2d ago"
+    "lastChecked": "5h ago"
   }
 ]
