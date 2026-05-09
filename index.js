@@ -2,7 +2,7 @@ const fs = require("fs/promises");
 const cheerio = require("cheerio");
 
 const DEFAULT_URL =
-  "https://proxydb.net/?country=KR&protocol=http&sort_column_id=uptime&sort_order_desc=true";
+  "https://proxydb.net/?anonlvl=4&country=KR&protocol=http&protocol=socks5&sort_column_id=uptime&sort_order_desc=true";
 const OUTPUT_FILE = "proxy.json";
 
 function normalizeText(value) {
@@ -16,13 +16,19 @@ function extractPortCandidates(portText) {
 
 function buildProxyObject(cells, rank) {
   const portCandidates = extractPortCandidates(cells[1] || "");
+  const ip = cells[0] || "";
+  const port = portCandidates.at(-1) || "";
+  const protocol = cells[2] || "";
+  const type = protocol.toLowerCase();
+  const fullAddress = `${type}://${ip}:${port}`;
 
   return {
     rank,
-    ip: cells[0] || "",
-    port: portCandidates.at(-1) || "",
-    portRaw: cells[1] || "",
-    protocol: cells[2] || "",
+    ip,
+    port,
+    fullAddress,
+    type,
+    protocol,
     country: cells[3] || "",
     anonymity: cells[4] || "",
     uptime: cells[5] || "",
@@ -59,9 +65,12 @@ async function parseTopProxyRows(url, topN = 5) {
 
   return rows
     .map((index, tr) => {
-      const cells = $(tr)
-        .find("td")
-        .map((_, td) => normalizeText($(td).text()))
+      const tds = $(tr).find("td");
+      const cells = tds
+        .map((_, td) => {
+          const aTag = $(td).find("a").text();
+          return normalizeText(aTag || $(td).text());
+        })
         .get();
 
       return buildProxyObject(cells, index + 1);
