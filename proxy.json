@@ -1,32 +1,6 @@
 [
   {
     "rank": 1,
-    "ip": "211.233.44.58",
-    "port": "8080",
-    "fullAddress": "http://211.233.44.58:8080",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "100.00%",
-    "responseTime": "4.9s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 2,
-    "ip": "1.245.175.180",
-    "port": "1080",
-    "fullAddress": "socks5://1.245.175.180:1080",
-    "type": "socks5",
-    "protocol": "SOCKS5",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "100.00%",
-    "responseTime": "2.6s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 3,
     "ip": "121.169.46.116",
     "port": "1090",
     "fullAddress": "socks5://121.169.46.116:1090",
@@ -36,10 +10,23 @@
     "anonymity": "High Anonymous",
     "uptime": "88.72%",
     "responseTime": "4.1s",
-    "lastChecked": "2h ago"
+    "lastChecked": "1d ago"
   },
   {
-    "rank": 4,
+    "rank": 2,
+    "ip": "211.233.44.58",
+    "port": "8080",
+    "fullAddress": "http://211.233.44.58:8080",
+    "type": "http",
+    "protocol": "HTTP",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "66.67%",
+    "responseTime": "4.9s",
+    "lastChecked": "14h ago"
+  },
+  {
+    "rank": 3,
     "ip": "219.249.37.107",
     "port": "8382",
     "fullAddress": "http://219.249.37.107:8382",
@@ -47,12 +34,12 @@
     "protocol": "HTTP",
     "country": "KR",
     "anonymity": "High Anonymous",
-    "uptime": "59.72%",
+    "uptime": "58.90%",
     "responseTime": "1.4s",
-    "lastChecked": "2d ago"
+    "lastChecked": "5h ago"
   },
   {
-    "rank": 5,
+    "rank": 4,
     "ip": "158.179.173.238",
     "port": "1080",
     "fullAddress": "socks5://158.179.173.238:1080",
@@ -62,6 +49,19 @@
     "anonymity": "High Anonymous",
     "uptime": "50.00%",
     "responseTime": "6.6s",
-    "lastChecked": "10h ago"
+    "lastChecked": "1d ago"
+  },
+  {
+    "rank": 5,
+    "ip": "1.245.175.180",
+    "port": "1080",
+    "fullAddress": "socks5://1.245.175.180:1080",
+    "type": "socks5",
+    "protocol": "SOCKS5",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "50.00%",
+    "responseTime": "2.6s",
+    "lastChecked": "14h ago"
   }
 ]
