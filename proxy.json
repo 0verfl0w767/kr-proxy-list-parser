@@ -10,36 +10,10 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "2.0s",
-    "lastChecked": "15h ago"
+    "lastChecked": "1d ago"
   },
   {
     "rank": 2,
-    "ip": "43.164.136.235",
-    "port": "3128",
-    "fullAddress": "http://43.164.136.235:3128",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "100.00%",
-    "responseTime": "1.1s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 3,
-    "ip": "43.108.35.203",
-    "port": "8899",
-    "fullAddress": "http://43.108.35.203:8899",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "100.00%",
-    "responseTime": "11.5s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 4,
     "ip": "121.169.46.116",
     "port": "1090",
     "fullAddress": "socks5://121.169.46.116:1090",
@@ -47,12 +21,12 @@
     "protocol": "SOCKS5",
     "country": "KR",
     "anonymity": "High Anonymous",
-    "uptime": "88.51%",
+    "uptime": "88.59%",
     "responseTime": "4.2s",
-    "lastChecked": "2d ago"
+    "lastChecked": "2h ago"
   },
   {
-    "rank": 5,
+    "rank": 3,
     "ip": "43.164.136.189",
     "port": "1080",
     "fullAddress": "socks5://43.164.136.189:1080",
@@ -62,6 +36,32 @@
     "anonymity": "High Anonymous",
     "uptime": "76.92%",
     "responseTime": "3.9s",
-    "lastChecked": "1d ago"
+    "lastChecked": "2d ago"
+  },
+  {
+    "rank": 4,
+    "ip": "219.249.37.107",
+    "port": "8380",
+    "fullAddress": "http://219.249.37.107:8380",
+    "type": "http",
+    "protocol": "HTTP",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "69.23%",
+    "responseTime": "1.1s",
+    "lastChecked": "2d ago"
+  },
+  {
+    "rank": 5,
+    "ip": "219.249.37.107",
+    "port": "8197",
+    "fullAddress": "http://219.249.37.107:8197",
+    "type": "http",
+    "protocol": "HTTP",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "68.75%",
+    "responseTime": "1.2s",
+    "lastChecked": "2d ago"
   }
 ]
