@@ -9,11 +9,50 @@
     "country": "KR",
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
-    "responseTime": "1.0s",
-    "lastChecked": "2d ago"
+    "responseTime": "0.9s",
+    "lastChecked": "13h ago"
   },
   {
     "rank": 2,
+    "ip": "49.167.236.96",
+    "port": "1080",
+    "fullAddress": "socks5://49.167.236.96:1080",
+    "type": "socks5",
+    "protocol": "SOCKS5",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "100.00%",
+    "responseTime": "4.0s",
+    "lastChecked": "15h ago"
+  },
+  {
+    "rank": 3,
+    "ip": "121.169.46.116",
+    "port": "1090",
+    "fullAddress": "socks5://121.169.46.116:1090",
+    "type": "socks5",
+    "protocol": "SOCKS5",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "88.89%",
+    "responseTime": "4.2s",
+    "lastChecked": "1d ago"
+  },
+  {
+    "rank": 4,
+    "ip": "43.164.136.189",
+    "port": "1080",
+    "fullAddress": "socks5://43.164.136.189:1080",
+    "type": "socks5",
+    "protocol": "SOCKS5",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "61.11%",
+    "responseTime": "4.2s",
+    "lastChecked": "1d ago"
+  },
+  {
+    "rank": 5,
     "ip": "210.121.160.114",
     "port": "17056",
     "fullAddress": "http://210.121.160.114:17056",
@@ -21,47 +60,8 @@
     "protocol": "HTTP",
     "country": "KR",
     "anonymity": "High Anonymous",
-    "uptime": "100.00%",
+    "uptime": "50.00%",
     "responseTime": "4.0s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 3,
-    "ip": "121.170.165.68",
-    "port": "25180",
-    "fullAddress": "http://121.170.165.68:25180",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "100.00%",
-    "responseTime": "3.5s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 4,
-    "ip": "121.170.165.97",
-    "port": "19797",
-    "fullAddress": "http://121.170.165.97:19797",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "100.00%",
-    "responseTime": "3.2s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 5,
-    "ip": "211.42.144.253",
-    "port": "24336",
-    "fullAddress": "http://211.42.144.253:24336",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "100.00%",
-    "responseTime": "2.6s",
-    "lastChecked": "2d ago"
+    "lastChecked": "15h ago"
   }
 ]
