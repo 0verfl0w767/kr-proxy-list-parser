@@ -9,8 +9,8 @@
     "country": "KR",
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
-    "responseTime": "0.9s",
-    "lastChecked": "2d ago"
+    "responseTime": "0.8s",
+    "lastChecked": "11h ago"
   },
   {
     "rank": 2,
@@ -23,7 +23,7 @@
     "anonymity": "High Anonymous",
     "uptime": "89.03%",
     "responseTime": "4.2s",
-    "lastChecked": "21h ago"
+    "lastChecked": "1d ago"
   },
   {
     "rank": 3,
@@ -34,9 +34,9 @@
     "protocol": "SOCKS5",
     "country": "KR",
     "anonymity": "High Anonymous",
-    "uptime": "66.67%",
+    "uptime": "50.00%",
     "responseTime": "4.0s",
-    "lastChecked": "2d ago"
+    "lastChecked": "13h ago"
   },
   {
     "rank": 4,
@@ -47,21 +47,21 @@
     "protocol": "SOCKS5",
     "country": "KR",
     "anonymity": "High Anonymous",
-    "uptime": "41.67%",
-    "responseTime": "4.5s",
-    "lastChecked": "2d ago"
+    "uptime": "46.15%",
+    "responseTime": "4.3s",
+    "lastChecked": "9h ago"
   },
   {
     "rank": 5,
-    "ip": "210.121.160.114",
-    "port": "17056",
-    "fullAddress": "http://210.121.160.114:17056",
+    "ip": "112.216.54.226",
+    "port": "12121",
+    "fullAddress": "http://112.216.54.226:12121",
     "type": "http",
     "protocol": "HTTP",
     "country": "KR",
     "anonymity": "High Anonymous",
-    "uptime": "33.33%",
-    "responseTime": "4.0s",
-    "lastChecked": "2d ago"
+    "uptime": "28.57%",
+    "responseTime": "1.0s",
+    "lastChecked": "8h ago"
   }
 ]
