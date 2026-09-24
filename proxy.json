@@ -10,10 +10,36 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "0.8s",
-    "lastChecked": "11h ago"
+    "lastChecked": "1d ago"
   },
   {
     "rank": 2,
+    "ip": "112.169.99.71",
+    "port": "8079",
+    "fullAddress": "http://112.169.99.71:8079",
+    "type": "http",
+    "protocol": "HTTP",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "100.00%",
+    "responseTime": "11.6s",
+    "lastChecked": "16h ago"
+  },
+  {
+    "rank": 3,
+    "ip": "118.34.200.206",
+    "port": "1080",
+    "fullAddress": "socks5://118.34.200.206:1080",
+    "type": "socks5",
+    "protocol": "SOCKS5",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "100.00%",
+    "responseTime": "2.7s",
+    "lastChecked": "15h ago"
+  },
+  {
+    "rank": 4,
     "ip": "121.169.46.116",
     "port": "1090",
     "fullAddress": "socks5://121.169.46.116:1090",
@@ -23,10 +49,10 @@
     "anonymity": "High Anonymous",
     "uptime": "89.03%",
     "responseTime": "4.2s",
-    "lastChecked": "1d ago"
+    "lastChecked": "2d ago"
   },
   {
-    "rank": 3,
+    "rank": 5,
     "ip": "49.167.236.96",
     "port": "1080",
     "fullAddress": "socks5://49.167.236.96:1080",
@@ -36,32 +62,6 @@
     "anonymity": "High Anonymous",
     "uptime": "50.00%",
     "responseTime": "4.0s",
-    "lastChecked": "13h ago"
-  },
-  {
-    "rank": 4,
-    "ip": "152.70.237.238",
-    "port": "3128",
-    "fullAddress": "socks5://152.70.237.238:3128",
-    "type": "socks5",
-    "protocol": "SOCKS5",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "46.15%",
-    "responseTime": "4.3s",
-    "lastChecked": "9h ago"
-  },
-  {
-    "rank": 5,
-    "ip": "112.216.54.226",
-    "port": "12121",
-    "fullAddress": "http://112.216.54.226:12121",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "28.57%",
-    "responseTime": "1.0s",
-    "lastChecked": "8h ago"
+    "lastChecked": "1d ago"
   }
 ]
