@@ -1,19 +1,6 @@
 [
   {
     "rank": 1,
-    "ip": "13.125.44.24",
-    "port": "80",
-    "fullAddress": "http://13.125.44.24:80",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "100.00%",
-    "responseTime": "0.8s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 2,
     "ip": "112.169.99.71",
     "port": "8079",
     "fullAddress": "http://112.169.99.71:8079",
@@ -23,10 +10,10 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "11.6s",
-    "lastChecked": "1d ago"
+    "lastChecked": "2d ago"
   },
   {
-    "rank": 3,
+    "rank": 2,
     "ip": "118.34.200.206",
     "port": "1080",
     "fullAddress": "socks5://118.34.200.206:1080",
@@ -36,10 +23,10 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "2.7s",
-    "lastChecked": "1d ago"
+    "lastChecked": "2d ago"
   },
   {
-    "rank": 4,
+    "rank": 3,
     "ip": "203.251.28.105",
     "port": "1080",
     "fullAddress": "socks5://203.251.28.105:1080",
@@ -49,19 +36,32 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "2.6s",
+    "lastChecked": "1d ago"
+  },
+  {
+    "rank": 4,
+    "ip": "112.169.99.71",
+    "port": "8008",
+    "fullAddress": "http://112.169.99.71:8008",
+    "type": "http",
+    "protocol": "HTTP",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "100.00%",
+    "responseTime": "2.7s",
     "lastChecked": "16h ago"
   },
   {
     "rank": 5,
-    "ip": "121.169.46.116",
-    "port": "1090",
-    "fullAddress": "socks5://121.169.46.116:1090",
-    "type": "socks5",
-    "protocol": "SOCKS5",
+    "ip": "13.125.44.24",
+    "port": "80",
+    "fullAddress": "http://13.125.44.24:80",
+    "type": "http",
+    "protocol": "HTTP",
     "country": "KR",
     "anonymity": "High Anonymous",
-    "uptime": "89.10%",
-    "responseTime": "4.2s",
-    "lastChecked": "20h ago"
+    "uptime": "90.00%",
+    "responseTime": "0.8s",
+    "lastChecked": "11h ago"
   }
 ]
