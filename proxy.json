@@ -10,7 +10,7 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "3.0s",
-    "lastChecked": "1d ago"
+    "lastChecked": "2d ago"
   },
   {
     "rank": 2,
@@ -22,46 +22,46 @@
     "country": "KR",
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
-    "responseTime": "6.2s",
-    "lastChecked": "2d ago"
+    "responseTime": "4.9s",
+    "lastChecked": "15h ago"
   },
   {
     "rank": 3,
-    "ip": "13.124.142.45",
-    "port": "8080",
-    "fullAddress": "http://13.124.142.45:8080",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "50.00%",
-    "responseTime": "4.6s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 4,
-    "ip": "34.64.135.132",
-    "port": "40001",
-    "fullAddress": "http://34.64.135.132:40001",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "50.00%",
-    "responseTime": "1.2s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 5,
-    "ip": "34.64.135.132",
-    "port": "40001",
-    "fullAddress": "socks5://34.64.135.132:40001",
+    "ip": "49.143.59.205",
+    "port": "110",
+    "fullAddress": "socks5://49.143.59.205:110",
     "type": "socks5",
     "protocol": "SOCKS5",
     "country": "KR",
     "anonymity": "High Anonymous",
-    "uptime": "50.00%",
-    "responseTime": "2.6s",
-    "lastChecked": "2d ago"
+    "uptime": "100.00%",
+    "responseTime": "5.5s",
+    "lastChecked": "15h ago"
+  },
+  {
+    "rank": 4,
+    "ip": "221.133.129.35",
+    "port": "1080",
+    "fullAddress": "socks5://221.133.129.35:1080",
+    "type": "socks5",
+    "protocol": "SOCKS5",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "100.00%",
+    "responseTime": "3.3s",
+    "lastChecked": "15h ago"
+  },
+  {
+    "rank": 5,
+    "ip": "130.162.141.185",
+    "port": "52916",
+    "fullAddress": "socks5://130.162.141.185:52916",
+    "type": "socks5",
+    "protocol": "SOCKS5",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "100.00%",
+    "responseTime": "12.6s",
+    "lastChecked": "15h ago"
   }
 ]
