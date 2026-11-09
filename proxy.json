@@ -1,6 +1,19 @@
 [
   {
     "rank": 1,
+    "ip": "45.93.28.167",
+    "port": "5555",
+    "fullAddress": "socks5://45.93.28.167:5555",
+    "type": "socks5",
+    "protocol": "SOCKS5",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "100.00%",
+    "responseTime": "1.9s",
+    "lastChecked": "16h ago"
+  },
+  {
+    "rank": 2,
     "ip": "183.106.215.208",
     "port": "1080",
     "fullAddress": "socks5://183.106.215.208:1080",
@@ -10,19 +23,6 @@
     "anonymity": "High Anonymous",
     "uptime": "90.00%",
     "responseTime": "3.8s",
-    "lastChecked": "1d ago"
-  },
-  {
-    "rank": 2,
-    "ip": "43.155.143.227",
-    "port": "1080",
-    "fullAddress": "socks5://43.155.143.227:1080",
-    "type": "socks5",
-    "protocol": "SOCKS5",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "80.00%",
-    "responseTime": "4.2s",
     "lastChecked": "2d ago"
   },
   {
@@ -36,32 +36,32 @@
     "anonymity": "High Anonymous",
     "uptime": "66.67%",
     "responseTime": "7.0s",
-    "lastChecked": "4h ago"
+    "lastChecked": "1d ago"
   },
   {
     "rank": 4,
-    "ip": "222.111.130.73",
-    "port": "8080",
-    "fullAddress": "http://222.111.130.73:8080",
-    "type": "http",
-    "protocol": "HTTP",
+    "ip": "43.155.143.227",
+    "port": "1080",
+    "fullAddress": "socks5://43.155.143.227:1080",
+    "type": "socks5",
+    "protocol": "SOCKS5",
     "country": "KR",
     "anonymity": "High Anonymous",
     "uptime": "66.67%",
-    "responseTime": "2.8s",
-    "lastChecked": "2d ago"
+    "responseTime": "4.2s",
+    "lastChecked": "13h ago"
   },
   {
     "rank": 5,
-    "ip": "59.21.30.218",
+    "ip": "221.133.129.35",
     "port": "1080",
-    "fullAddress": "socks5://59.21.30.218:1080",
+    "fullAddress": "socks5://221.133.129.35:1080",
     "type": "socks5",
     "protocol": "SOCKS5",
     "country": "KR",
     "anonymity": "High Anonymous",
     "uptime": "50.00%",
-    "responseTime": "2.6s",
-    "lastChecked": "2d ago"
+    "responseTime": "3.4s",
+    "lastChecked": "14h ago"
   }
 ]
