@@ -10,7 +10,7 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "2.8s",
-    "lastChecked": "15h ago"
+    "lastChecked": "1d ago"
   },
   {
     "rank": 2,
@@ -23,7 +23,7 @@
     "anonymity": "High Anonymous",
     "uptime": "91.67%",
     "responseTime": "3.6s",
-    "lastChecked": "1d ago"
+    "lastChecked": "2d ago"
   },
   {
     "rank": 3,
@@ -36,7 +36,7 @@
     "anonymity": "High Anonymous",
     "uptime": "60.00%",
     "responseTime": "5.9s",
-    "lastChecked": "3h ago"
+    "lastChecked": "1d ago"
   },
   {
     "rank": 4,
@@ -47,21 +47,21 @@
     "protocol": "SOCKS5",
     "country": "KR",
     "anonymity": "High Anonymous",
-    "uptime": "57.14%",
+    "uptime": "50.00%",
     "responseTime": "4.2s",
-    "lastChecked": "2d ago"
+    "lastChecked": "12h ago"
   },
   {
     "rank": 5,
-    "ip": "45.93.28.167",
-    "port": "5555",
-    "fullAddress": "socks5://45.93.28.167:5555",
+    "ip": "152.70.237.238",
+    "port": "3128",
+    "fullAddress": "socks5://152.70.237.238:3128",
     "type": "socks5",
     "protocol": "SOCKS5",
     "country": "KR",
     "anonymity": "High Anonymous",
-    "uptime": "50.00%",
-    "responseTime": "1.9s",
-    "lastChecked": "2d ago"
+    "uptime": "36.67%",
+    "responseTime": "6.0s",
+    "lastChecked": "1d ago"
   }
 ]
