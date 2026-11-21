@@ -10,7 +10,7 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "8.2s",
-    "lastChecked": "1d ago"
+    "lastChecked": "2d ago"
   },
   {
     "rank": 2,
@@ -23,10 +23,36 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "2.0s",
-    "lastChecked": "1d ago"
+    "lastChecked": "2d ago"
   },
   {
     "rank": 3,
+    "ip": "132.226.175.103",
+    "port": "1080",
+    "fullAddress": "http://132.226.175.103:1080",
+    "type": "http",
+    "protocol": "HTTP",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "100.00%",
+    "responseTime": "1.3s",
+    "lastChecked": "17h ago"
+  },
+  {
+    "rank": 4,
+    "ip": "132.226.175.103",
+    "port": "1080",
+    "fullAddress": "socks5://132.226.175.103:1080",
+    "type": "socks5",
+    "protocol": "SOCKS5",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "100.00%",
+    "responseTime": "5.6s",
+    "lastChecked": "17h ago"
+  },
+  {
+    "rank": 5,
     "ip": "183.106.215.208",
     "port": "1080",
     "fullAddress": "socks5://183.106.215.208:1080",
@@ -36,32 +62,6 @@
     "anonymity": "High Anonymous",
     "uptime": "92.86%",
     "responseTime": "3.5s",
-    "lastChecked": "1d ago"
-  },
-  {
-    "rank": 4,
-    "ip": "43.128.144.133",
-    "port": "18080",
-    "fullAddress": "http://43.128.144.133:18080",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "50.00%",
-    "responseTime": "2.8s",
-    "lastChecked": "15h ago"
-  },
-  {
-    "rank": 5,
-    "ip": "161.118.152.153",
-    "port": "8118",
-    "fullAddress": "http://161.118.152.153:8118",
-    "type": "http",
-    "protocol": "HTTP",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "42.86%",
-    "responseTime": "5.9s",
-    "lastChecked": "3h ago"
+    "lastChecked": "2d ago"
   }
 ]
