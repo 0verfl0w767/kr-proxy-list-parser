@@ -10,7 +10,7 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "4.6s",
-    "lastChecked": "1d ago"
+    "lastChecked": "2d ago"
   },
   {
     "rank": 2,
@@ -23,10 +23,23 @@
     "anonymity": "High Anonymous",
     "uptime": "100.00%",
     "responseTime": "2.8s",
-    "lastChecked": "20h ago"
+    "lastChecked": "1d ago"
   },
   {
     "rank": 3,
+    "ip": "218.52.200.62",
+    "port": "1080",
+    "fullAddress": "socks5://218.52.200.62:1080",
+    "type": "socks5",
+    "protocol": "SOCKS5",
+    "country": "KR",
+    "anonymity": "High Anonymous",
+    "uptime": "100.00%",
+    "responseTime": "2.1s",
+    "lastChecked": "18h ago"
+  },
+  {
+    "rank": 4,
     "ip": "183.106.215.208",
     "port": "1080",
     "fullAddress": "socks5://183.106.215.208:1080",
@@ -36,32 +49,19 @@
     "anonymity": "High Anonymous",
     "uptime": "86.67%",
     "responseTime": "3.5s",
-    "lastChecked": "2d ago"
-  },
-  {
-    "rank": 4,
-    "ip": "61.110.28.56",
-    "port": "5555",
-    "fullAddress": "socks5://61.110.28.56:5555",
-    "type": "socks5",
-    "protocol": "SOCKS5",
-    "country": "KR",
-    "anonymity": "High Anonymous",
-    "uptime": "50.00%",
-    "responseTime": "8.2s",
-    "lastChecked": "2d ago"
+    "lastChecked": "3d ago"
   },
   {
     "rank": 5,
-    "ip": "61.110.3.202",
-    "port": "5555",
-    "fullAddress": "socks5://61.110.3.202:5555",
-    "type": "socks5",
-    "protocol": "SOCKS5",
+    "ip": "132.226.175.103",
+    "port": "1080",
+    "fullAddress": "http://132.226.175.103:1080",
+    "type": "http",
+    "protocol": "HTTP",
     "country": "KR",
     "anonymity": "High Anonymous",
     "uptime": "50.00%",
-    "responseTime": "2.0s",
-    "lastChecked": "2d ago"
+    "responseTime": "1.3s",
+    "lastChecked": "1d ago"
   }
 ]
